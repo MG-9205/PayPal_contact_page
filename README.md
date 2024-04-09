@@ -20,8 +20,7 @@ To run this project locally, you need to have Node.js and npm (Node Package Mana
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MG-9205/MH_BLOGS.git
-cd mh-blog 
+git clone https://github.com/MG-9205/PayPal_contact_page.git 
 ```
 2. Install dependencies:
 ```bash
