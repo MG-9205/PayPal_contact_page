@@ -162,7 +162,7 @@ export default function Form() {
                 <div className="border-2 border-b-gray-300 relative py-2 h-[50px] flex justify-center items-center rounded-[8px] hover:border-blue-500 hover:shadow-blue-400 hover:shadow-md">
                   <select
                     id="Country"
-                    className="block pt-1 px-2 outline-none w-[100%]  mt-1"
+                    className="block pt-1 px-2 outline-none w-[100%] bg-white  mt-1"
                     name="Country"
                     value={formData.Country}
                     onChange={handleChange}
@@ -187,7 +187,7 @@ export default function Form() {
                   <select
                     id="Income"
                     name="Income"
-                    className="block pt-1 px-2 outline-none w-[100%]  mt-1"
+                    className="block pt-1 px-2 outline-none w-[100%] bg-white  mt-1"
                     value={formData.Income}
                     onChange={handleChange}
                   >
@@ -210,7 +210,7 @@ export default function Form() {
                   <select
                     id="know"
                     name="know"
-                    className="block pt-1 px-2 outline-none w-[100%]  mt-1"
+                    className="block pt-1 px-2 outline-none w-[100%] bg-white  mt-1"
                     value={formData.know}
                     onChange={handleChange}
                   >

@@ -30,11 +30,11 @@ git clone https://github.com/MG-9205/PayPal_contact_page.git
 
 Once the project is set up, you can explore the PayPal contact page clone by navigating through the different sections:
 
-Home: View the introductory section with a brief overview of the project.
-Contact Form: Fill out the contact form to connect with the sales team.
-Other Ways to Connect: Explore alternative ways to contact PayPal, such as phone support and help center links.
-Business Solutions: Learn about PayPal's solutions for small-to-medium businesses and enterprises.
-Feel free to customize and extend the project according to your needs.
+- Home: View the introductory section with a brief overview of the project.
+- Contact Form: Fill out the contact form to connect with the sales team.
+- Other Ways to Connect: Explore alternative ways to contact PayPal, such as phone support and help center links.
+- Business Solutions: Learn about PayPal's solutions for small-to-medium businesses and enterprises.
+- Feel free to customize and extend the project according to your needs.
 
 
 
